@@ -13,8 +13,6 @@ from transformers import AutoFeatureExtractor, ASTModel
 from sentence_transformers import SentenceTransformer
 from tqdm.notebook import tqdm
 
-1. SETUP CUDA DEVICE
-This ensures your RTX 5070 Ti is doing the heavy lifting
 if torch.cuda.is_available():
     DEVICE = "cuda"
     print(f"🚀 GPU Active: {torch.cuda.get_device_name(0)}")
