@@ -1,0 +1,22 @@
+[project]
+name = "audio-search"
+version = "0.1.0"
+description = "Audio-Text Retrieval System without CLAP"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "accelerate>=1.12.0",
+    "chromadb>=1.4.1",
+    "ipykernel>=7.1.0",
+    "ipynb>=0.5.1",
+    "jinja2>=3.1.6",
+    "librosa>=0.11.0",
+    "markupsafe>=3.0.3",
+    "matplotlib>=3.10.8",
+    "numpy<2.4",
+    "seaborn>=0.13.2",
+    "sentence-transformers>=5.2.2",
+    "soundfile>=0.13.1",
+    "tqdm>=4.67.1",
+    "transformers>=5.0.0",
+]

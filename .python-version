@@ -1,0 +1,9 @@
+3.12
+chroma_db
+# Other
+*.log
+*.tmp
+temp/
+cache/
+.DS_Store
+Thumbs.db

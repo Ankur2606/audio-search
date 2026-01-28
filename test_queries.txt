@@ -1,0 +1,344 @@
+heavy kick drum, drums
+snare hit, drums
+hi-hat loop, drums
+fast percussion, drums
+thumping bass, drums
+rhythmic beat, drums
+piano melody, keys
+synthesizer chord, keys
+electric organ, keys
+melodious harmony, keys
+smooth jazz chords, keys
+digital synth lead, keys
+acoustic guitar strum, keys
+electric piano riff, keys
+bass guitar line, drums
+cymbal crash, drums
+tom-tom fill, drums
+kick and snare combo, drums
+electronic beat, drums
+jazz piano solo, keys
+synthesizer pad, keys
+organ bass line, keys
+drum machine pattern, drums
+hi-hat shuffle, drums
+snare roll, drums
+bass drum thump, drums
+keyboard melody, keys
+electric piano chord, keys
+synth bass line, keys
+percussion loop, drums
+drum kit groove, drums
+piano accompaniment, keys
+synthesizer arpeggio, keys
+kick drum pattern, drums
+snare drum accent, drums
+hi-hat open, drums
+closed hi-hat, drums
+floor tom hit, drums
+crash cymbal, drums
+ride cymbal, drums
+splash cymbal, drums
+china cymbal, drums
+cowbell hit, drums
+tambourine shake, drums
+shaker rhythm, drums
+conga drums, drums
+bongo drums, drums
+timbale hit, drums
+djembe rhythm, drums
+cajon beat, drums
+tabla rhythm, drums
+frame drum, drums
+bodhrán beat, drums
+taiko drum, drums
+steel drum melody, keys
+marimba notes, keys
+xylophone melody, keys
+vibraphone chords, keys
+glockenspiel tinkle, keys
+celesta melody, keys
+harpsichord arpeggio, keys
+clavinet funk, keys
+accordion melody, keys
+harmonica riff, keys
+melodica tune, keys
+kalimba pluck, keys
+music box melody, keys
+church organ, keys
+hammond organ, keys
+pipe organ, keys
+reed organ, keys
+electronic organ, keys
+digital piano, keys
+upright piano, keys
+grand piano, keys
+honky-tonk piano, keys
+prepared piano, keys
+toy piano, keys
+electric keyboard, keys
+midi keyboard, keys
+synthesizer lead, keys
+analog synth, keys
+digital synth, keys
+modular synth, keys
+bass synthesizer, keys
+drum synthesizer, drums
+vocoder synth, keys
+string synthesizer, keys
+brass synthesizer, keys
+pad synthesizer, keys
+lead synthesizer, keys
+arpeggiator synth, keys
+sequencer pattern, drums
+drum sequencer, drums
+step sequencer, drums
+pattern sequencer, drums
+groove box, drums
+drum machine, drums
+electronic drums, drums
+acoustic drums, drums
+jazz drums, drums
+rock drums, drums
+latin drums, drums
+world drums, drums
+ethnic drums, drums
+hand drums, drums
+frame drums, drums
+goblet drums, drums
+barrel drums, drums
+hourglass drums, drums
+friction drums, drums
+vessel drums, drums
+struck drums, drums
+plucked drums, drums
+blown drums, drums
+electronic percussion, drums
+acoustic percussion, drums
+mallet percussion, keys
+pitched percussion, keys
+unpitched percussion, drums
+auxiliary percussion, drums
+orchestral percussion, drums
+marching percussion, drums
+concert percussion, drums
+ethnic percussion, drums
+folk percussion, drums
+traditional percussion, drums
+modern percussion, drums
+experimental percussion, drums
+found percussion, drums
+body percussion, drums
+vocal percussion, drums
+beatbox rhythm, drums
+mouth percussion, drums
+finger percussion, drums
+hand clap, drums
+foot stomp, drums
+chest thump, drums
+leg slap, drums
+cheek pop, drums
+tongue click, drums
+lip buzz, drums
+throat bass, drums
+vocal bass, drums
+human beatbox, drums
+acapella percussion, drums
+vocal drums, drums
+voice percussion, drums
+organic percussion, drums
+natural percussion, drums
+environmental percussion, drums
+field recording percussion, drums
+found sound percussion, drums
+industrial percussion, drums
+mechanical percussion, drums
+electronic glitch, drums
+digital noise, drums
+computer percussion, drums
+software drums, drums
+virtual drums, drums
+sampled drums, drums
+looped drums, drums
+programmed drums, drums
+quantized drums, drums
+swing drums, drums
+shuffle drums, drums
+straight drums, drums
+syncopated drums, drums
+polyrhythmic drums, drums
+cross-rhythm drums, drums
+odd-meter drums, drums
+compound drums, drums
+simple drums, drums
+complex drums, drums
+minimal drums, drums
+maximal drums, drums
+sparse drums, drums
+dense drums, drums
+light drums, drums
+heavy drums, drums
+soft drums, drums
+loud drums, drums
+quiet drums, drums
+subtle drums, drums
+prominent drums, drums
+background drums, drums
+foreground drums, drums
+supporting drums, drums
+leading drums, drums
+following drums, drums
+call drums, drums
+response drums, drums
+question drums, drums
+answer drums, drums
+statement drums, drums
+exclamation drums, drums
+whisper drums, drums
+shout drums, drums
+murmur drums, drums
+roar drums, drums
+gentle keys, keys
+aggressive keys, keys
+smooth keys, keys
+rough keys, keys
+flowing keys, keys
+choppy keys, keys
+legato keys, keys
+staccato keys, keys
+sustained keys, keys
+short keys, keys
+long keys, keys
+brief keys, keys
+extended keys, keys
+quick keys, keys
+slow keys, keys
+fast keys, keys
+moderate keys, keys
+gradual keys, keys
+sudden keys, keys
+immediate keys, keys
+give me some rocking kick beats, drums
+give me a soothing sound for my band, keys
+I need heavy drums for my track, drums
+can you make some chill piano vibes, keys
+drop some sick beats for me, drums
+I want smooth jazz keys please, keys
+give me that boom bap sound, drums
+need some ambient synth pads, keys
+make it sound punchy and tight, drums
+I want dreamy keyboard sounds, keys
+give me some trap style hi-hats, drums
+can I get some funky bass keys, keys
+I need aggressive rock drums, drums
+make some peaceful piano melodies, keys
+give me those crispy snare hits, drums
+I want ethereal synth textures, keys
+drop some heavy 808 kicks, drums
+need some bright electric piano, keys
+give me shuffling groove patterns, drums
+I want warm analog synth sounds, keys
+make some thunderous tom fills, drums
+can you create soft string pads, keys
+I need punchy electronic beats, drums
+give me some bluesy organ riffs, keys
+make it sound like vintage drums, drums
+I want modern digital piano tones, keys
+give me some latin percussion vibes, drums
+need atmospheric background keys, keys
+make some driving four-on-the-floor beats, drums
+I want sparkly bell-like sounds, keys
+give me some polyrhythmic patterns, drums
+can I get some retro synth leads, keys
+I need subtle brush drum sounds, drums
+make some haunting minor key melodies, keys
+give me explosive cymbal crashes, drums
+I want uplifting major chord progressions, keys
+make some intricate finger drumming, drums
+need some glitchy electronic textures, keys
+give me that old school boom sound, drums
+I want crystalline music box tones, keys
+make some syncopated rhythm patterns, drums
+can you create lush orchestral pads, keys
+I need tight quantized drum loops, drums
+give me some gospel-style organ chops, keys
+make it swing with that jazz feel, drums
+I want distorted industrial synth sounds, keys
+give me some world music percussion, drums
+need delicate harpsichord arpeggios, keys
+make some powerful marching band drums, drums
+I want smooth R&B electric piano, keys
+give me some experimental noise beats, drums
+can I get some classical piano passages, keys
+I need driving techno kick patterns, drums
+make some mystical flute-like synths, keys
+give me some tribal hand drum rhythms, drums
+I want rich Hammond organ tones, keys
+make it sound like live acoustic drums, drums
+need some minimalist piano phrases, keys
+give me some breakbeat style patterns, drums
+I want fat analog bass synthesizer, keys
+make some delicate finger cymbal work, drums
+can you create soaring lead synth lines, keys
+I need subtle background percussion, drums
+give me some honky-tonk piano character, keys
+make some complex polyrhythmic grooves, drums
+I want shimmering pad synthesizer washes, keys
+give me that classic rock drum sound, drums
+need some baroque-style keyboard ornaments, keys
+make some hip-hop influenced beat patterns, drums
+I want warm vintage electric piano, keys
+give me some African drumming patterns, drums
+can I get some church organ majesty, keys
+I need crisp digital drum machine sounds, drums
+make some flowing legato synth melodies, keys
+give me some reggae-style drum riddims, drums
+I want percussive staccato piano attacks, keys
+make some ambient field recording textures, drums
+need some bright glockenspiel sparkles, keys
+give me some dubstep-style drum drops, drums
+I want deep sub-bass synthesizer rumbles, keys
+make some intricate tabla rhythm cycles, drums
+can you create angelic choir-like pads, keys
+I need punchy compressed drum sounds, drums
+give me some ragtime piano syncopation, keys
+make some electronic glitch percussion, drums
+I want smooth saxophone-like synth leads, keys
+give me some samba percussion grooves, drums
+need some delicate celesta bell tones, keys
+make it sound like a full drum kit, drums
+I want rich string ensemble synthesizer, keys
+give me some jungle-style breakbeats, drums
+can I get some prepared piano textures, keys
+I need driving house music kick drums, drums
+make some ethereal ambient synth drones, keys
+give me some flamenco-style hand claps, drums
+I want bright marimba-like mallet sounds, keys
+make some complex odd-meter drum patterns, drums
+need some warm analog filter sweeps, keys
+give me some metal-style double bass drums, drums
+I want crystalline digital piano clarity, keys
+make some found-object percussion sounds, drums
+can you create vintage Mellotron strings, keys
+I need subtle brush snare techniques, drums
+give me some Indian classical tabla, drums
+make some modern trap-style 808 patterns, drums
+I want lush reverb-drenched piano, keys
+give me some Afro-Cuban conga rhythms, drums
+need some bright FM synthesis bells, keys
+make some progressive rock drum fills, drums
+I want deep analog Moog bass sounds, keys
+give me some Brazilian batucada percussion, drums
+can I get some toy piano whimsy, keys
+I need powerful orchestral timpani rolls, drums
+make some glassy digital synth textures, keys
+give me some New Orleans second line beats, drums
+I want warm Rhodes electric piano, keys
+make some experimental extended drum techniques, drums
+need some haunting theremin-like synths, keys
+give me some Celtic bodhrán rhythms, drums
+I want percussive clavinet funk attacks, keys
+make some ambient nature-inspired percussion, drums
+can you create vintage analog synth leads, keys
+I need tight funk-style drum pockets, drums
+give me some medieval harpsichord textures, keys
